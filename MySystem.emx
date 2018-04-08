@@ -10482,7 +10482,7 @@
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_jukAYzsqEeiGjcuYnJGp9Q" type="Name"/>
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jukAYTsqEeiGjcuYnJGp9Q" y="-186"/>
               </children>
-              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_jujZUTsqEeiGjcuYnJGp9Q" points="[60, 97, -4966, -2221]$[60, 731, -4966, -1587]$[5065, 731, 39, -1587]$[5065, 2318, 39, 0]"/>
+              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_jujZUTsqEeiGjcuYnJGp9Q" points="[985, -691, -3550, -877]$[4962, -691, 427, -877]$[4962, 186, 427, 0]"/>
               <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_mwfgUDsqEeiGjcuYnJGp9Q" id="(0.7501489425081919,0.923469387755102)"/>
               <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_mwgHYDsqEeiGjcuYnJGp9Q" id="(0.5,-1.8900554899686788E-16)"/>
             </edges>
